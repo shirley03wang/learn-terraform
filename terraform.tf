@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MPL-2.0
 
 terraform {
-
+/*
   cloud {
     organization = "Shirley-org"
 
@@ -10,6 +10,7 @@ terraform {
       name = "learn-terraform"
     }
   }
+*/
 
   required_providers {
     aws = {
